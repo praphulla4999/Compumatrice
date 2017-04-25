@@ -1,0 +1,4 @@
+Please copy "Que1" folder from "Projects" to VS Studio\projects
+and "Que1" folder from "Websites" to VS Studio\websites
+
+Change the connections strings from web.config file before building output.
